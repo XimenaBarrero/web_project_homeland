@@ -34,7 +34,7 @@
 }
 
 /* Tablet */
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 544px) and (max-width: 1023px) {
   .intro {
     margin: 60px auto 0;
     padding: 0 24px;
@@ -42,14 +42,13 @@
 
   .intro__title {
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
     max-width: 680px;
   }
 }
 
 /* Móvil */
-@media screen and (max-width: 768px) {
-
+@media screen and (max-width: 543px) {
   .intro {
     margin: 40px auto 0;
     padding: 0 24px;
@@ -57,7 +56,7 @@
 
   .intro__title {
     font-size: 32px;
-    line-height: 36px;
+    line-height: 1.125;
     max-width: 100%;
   }
 
@@ -69,7 +68,7 @@
 
   .intro__author {
     font-size: 16px;
-    line-height: 20px;
+    line-height: 1.25;
   }
 
   .intro__text_secondary {
