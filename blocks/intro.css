@@ -1,5 +1,5 @@
 .intro {
-  max-width: 830px;
+  max-width: 984px;
   margin: 80px auto 0;
 }
 
@@ -27,7 +27,7 @@
   text-align: right;
 }
 
-.intro__text--secondary {
+.intro__text_secondary {
   margin-top: 24px;
   font-size: 16px;
   line-height: 1.63;
@@ -71,7 +71,7 @@
     line-height: 1.25;
   }
 
-  .intro__text--secondary {
+  .intro__text_secondary {
     font-size: 16px;
     line-height: 1.5;
   }
